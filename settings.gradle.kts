@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "iskra-mobile"
 include(":app")
+include(":data")
